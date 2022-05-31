@@ -1,0 +1,414 @@
+name,gender,species,personality,sign,hobby,n_appearances,tier,rank
+Raymond,Male,Cat,Smug,Libra,Nature,1,1,1
+Marshal,Male,Squirrel,Smug,Libra,Music,4,1,2
+Shino,Female,Deer,Peppy,Scorpio,Education,1,1,3
+Sherb,Male,Goat,Lazy,Capricorn,Nature,1,1,4
+Sasha,Male,Rabbit,Lazy,Taurus,Fashion,1,1,5
+Ione,Female,Squirrel,Normal,Virgo,Fashion,1,1,6
+Ankha,Female,Cat,Snooty,Virgo,Nature,7,1,7
+Zucker,Male,Octopus,Lazy,Pisces,Nature,4,1,8
+Stitches,Male,Bear cub,Lazy,Aquarius,Play,6,1,9
+Merengue,Female,Rhinoceros,Normal,Pisces,Nature,4,1,10
+Marina,Female,Octopus,Normal,Cancer,Music,7,1,11
+Judy,Female,Bear cub,Snooty,Pisces,Music,1,1,12
+Beau,Male,Deer,Lazy,Aries,Nature,4,1,13
+Coco,Female,Rabbit,Normal,Pisces,Education,9,1,14
+Maple,Female,Bear cub,Normal,Gemini,Education,9,1,15
+Fauna,Female,Deer,Normal,Aries,Nature,4,2,16
+Audie,Female,Wolf,Peppy,Virgo,Fitness,1,2,17
+Molly,Female,Duck,Normal,Pisces,Nature,4,2,18
+Bob,Male,Cat,Lazy,Capricorn,Play,9,2,19
+Lolly,Female,Cat,Normal,Aries,Music,6,2,20
+Erik,Male,Deer,Lazy,Leo,Nature,4,2,21
+Lucky,Male,Dog,Lazy,Scorpio,Play,9,2,22
+Diana,Female,Deer,Snooty,Capricorn,Education,4,2,23
+Dom,Male,Sheep,Jock,Pisces,Play,1,2,24
+Ketchup,Female,Duck,Peppy,Leo,Play,3,2,25
+Cephalobot,Male,Octopus,Smug,Aries,Play,1,2,26
+Rosie,Female,Cat,Peppy,Pisces,Music,10,2,27
+Lily,Female,Frog,Normal,Aquarius,Education,9,2,28
+Julian,Male,Horse,Smug,Pisces,Music,4,2,29
+Tangy,Female,Cat,Peppy,Gemini,Music,9,2,30
+Punchy,Male,Cat,Lazy,Aries,Play,8,2,31
+Cherry,Female,Dog,Big sister,Taurus,Music,4,2,32
+Fang,Male,Wolf,Cranky,Sagittarius,Education,8,2,33
+Kiki,Female,Cat,Normal,Libra,Education,9,2,34
+Apollo,Male,Eagle,Cranky,Cancer,Music,10,2,35
+Poppy,Female,Squirrel,Normal,Leo,Education,5,2,36
+Roald,Male,Penguin,Jock,Capricorn,Fitness,9,2,37
+Bluebear,Female,Bear cub,Peppy,Cancer,Fashion,9,2,38
+Pietro,Male,Sheep,Smug,Aries,Music,4,2,39
+Flora,Female,Ostrich,Peppy,Aquarius,Play,4,2,40
+Apple,Female,Hamster,Peppy,Libra,Play,4,3,41
+Filbert,Male,Squirrel,Lazy,Gemini,Nature,9,3,42
+Octavian,Male,Octopus,Cranky,Virgo,Play,9,3,43
+Tia,Female,Elephant,Normal,Scorpio,Nature,4,3,44
+Whitney,Female,Wolf,Snooty,Virgo,Fashion,7,3,45
+Pashmina,Female,Goat,Big sister,Capricorn,Music,3,3,46
+Skye,Female,Wolf,Normal,Aries,Music,4,3,47
+Ruby,Female,Rabbit,Peppy,Capricorn,Nature,6,3,48
+Reneigh,Female,Horse,Big sister,Gemini,Play,1,3,49
+Merry,Female,Cat,Peppy,Cancer,Fashion,6,3,50
+Kabuki,Male,Cat,Cranky,Sagittarius,Music,9,3,51
+Genji,Male,Rabbit,Jock,Aquarius,Fitness,9,3,52
+Flurry,Female,Hamster,Normal,Aquarius,Nature,4,3,53
+Dobie,Male,Wolf,Cranky,Aquarius,Nature,4,3,54
+Wolfgang,Male,Wolf,Cranky,Sagittarius,Education,9,3,55
+Goldie,Female,Dog,Normal,Capricorn,Nature,9,3,56
+Bam,Male,Deer,Jock,Scorpio,Play,4,3,57
+Étoile,Female,Sheep,Normal,Capricorn,Music,2,3,58
+Deirdre,Female,Deer,Big sister,Taurus,Play,3,3,59
+Cookie,Female,Dog,Peppy,Gemini,Fashion,7,3,60
+Henry,Male,Frog,Smug,Virgo,Music,4,3,61
+Clay,Male,Hamster,Lazy,Libra,Nature,3,3,62
+Hazel,Female,Squirrel,Big sister,Virgo,Play,3,3,63
+Melba,Female,Koala,Normal,Aries,Education,5,3,64
+Chevre,Female,Goat,Normal,Pisces,Education,9,3,65
+Katt,Female,Cat,Big sister,Taurus,Music,4,3,66
+Kid Cat,Male,Cat,Jock,Leo,Fitness,7,3,67
+Daisy,Female,Dog,Normal,Scorpio,Education,9,3,68
+Pekoe,Female,Bear cub,Normal,Taurus,Nature,5,3,69
+Zell,Male,Deer,Smug,Gemini,Music,4,3,70
+Sprinkle,Female,Penguin,Peppy,Pisces,Play,4,4,71
+Chrissy,Female,Rabbit,Peppy,Virgo,Fashion,6,4,72
+Hornsby,Male,Rhinoceros,Lazy,Pisces,Nature,5,4,73
+Drago,Male,Alligator,Lazy,Aquarius,Nature,4,4,74
+Aurora,Female,Penguin,Normal,Aquarius,Education,9,4,75
+Muffy,Female,Sheep,Big sister,Aquarius,Music,4,4,76
+Static,Male,Squirrel,Cranky,Cancer,Music,9,4,77
+Phoebe,Female,Ostrich,Big sister,Taurus,Fitness,4,4,78
+Bianca,Female,Tiger,Peppy,Sagittarius,Play,4,4,79
+Cheri,Female,Bear cub,Peppy,Pisces,Fashion,6,4,80
+Kyle,Male,Wolf,Smug,Sagittarius,Music,4,4,81
+Bea,Female,Dog,Normal,Libra,Nature,5,4,82
+Cube,Male,Penguin,Lazy,Aquarius,Play,9,4,83
+Alice,Female,Koala,Normal,Leo,Education,7,4,84
+Tiansheng,Male,Monkey,Jock,Leo,Fitness,1,4,85
+Sylvana,Female,Squirrel,Normal,Libra,Nature,3,4,86
+Tom,Male,Cat,Cranky,Sagittarius,Education,8,4,87
+Nan,Female,Goat,Normal,Virgo,Nature,7,4,88
+Jeremiah,Male,Frog,Lazy,Cancer,Play,9,4,89
+Rex,Male,Lion,Lazy,Leo,Nature,5,4,90
+Francine,Female,Rabbit,Snooty,Aquarius,Fashion,6,4,91
+Hamlet,Male,Hamster,Jock,Gemini,Play,4,4,92
+Dizzy,Male,Elephant,Lazy,Cancer,Play,8,4,93
+Purrl,Female,Cat,Snooty,Gemini,Fashion,9,4,94
+Bill,Male,Duck,Jock,Aquarius,Play,9,4,95
+Agnes,Female,Pig,Big sister,Taurus,Play,4,4,96
+Olivia,Female,Cat,Snooty,Aquarius,Music,9,4,97
+Shep,Male,Dog,Smug,Sagittarius,Education,4,4,98
+Mitzi,Female,Cat,Normal,Libra,Education,9,4,99
+Bunnie,Female,Rabbit,Peppy,Taurus,Fashion,9,4,100
+Fuchsia,Female,Deer,Big sister,Virgo,Music,4,4,101
+Bruce,Male,Deer,Cranky,Gemini,Nature,4,4,102
+Tutu,Female,Bear,Peppy,Virgo,Fashion,8,4,103
+Bangle,Female,Tiger,Peppy,Virgo,Fashion,6,4,104
+Lopez,Male,Deer,Smug,Leo,Education,3,4,105
+Petri,Female,Mouse,Snooty,Libra,Education,1,4,106
+Bones,Male,Dog,Lazy,Leo,Play,9,4,107
+Peanut,Female,Squirrel,Peppy,Gemini,Fashion,9,4,108
+Quinn,Female,Eagle,Big sister,Aquarius,Education,1,4,109
+Eugene,Male,Koala,Smug,Scorpio,Music,4,4,110
+Kidd,Male,Goat,Smug,Cancer,Education,5,4,111
+Biskit,Male,Dog,Lazy,Taurus,Play,9,4,112
+Freckles,Female,Duck,Peppy,Pisces,Fashion,8,4,113
+Tammy,Female,Bear cub,Big sister,Cancer,Play,4,4,114
+Marlo,Male,Hamster,Cranky,Cancer,Education,1,4,115
+Roscoe,Male,Horse,Cranky,Gemini,Music,7,4,116
+Chai,Female,Elephant,Peppy,Pisces,Play,2,4,117
+Tasha,Female,Squirrel,Snooty,Sagittarius,Fitness,3,4,118
+Beardo,Male,Bear,Smug,Libra,Education,4,4,119
+Gayle,Female,Alligator,Normal,Taurus,Nature,4,4,120
+Teddy,Male,Bear,Jock,Libra,Fitness,9,4,121
+Ellie,Female,Elephant,Normal,Taurus,Nature,5,4,122
+Julia,Female,Ostrich,Snooty,Leo,Education,3,4,123
+Bella,Female,Mouse,Peppy,Capricorn,Music,6,4,124
+Lobo,Male,Wolf,Cranky,Scorpio,Education,9,4,125
+Shari,Female,Monkey,Big sister,Aries,Music,4,4,126
+Lyman,Male,Koala,Jock,Libra,Play,4,4,127
+Freya,Female,Wolf,Snooty,Sagittarius,Fashion,8,4,128
+Wade,Male,Penguin,Lazy,Scorpio,Nature,3,4,129
+Scoot,Male,Duck,Jock,Gemini,Fitness,8,4,130
+Antonio,Male,Anteater,Jock,Libra,Fitness,7,5,131
+Olive,Female,Bear cub,Normal,Cancer,Nature,5,5,132
+Vivian,Female,Wolf,Snooty,Aquarius,Education,3,5,133
+Dotty,Female,Rabbit,Peppy,Pisces,Fashion,9,5,134
+Puddles,Female,Frog,Peppy,Capricorn,Fashion,8,5,135
+Blaire,Female,Squirrel,Snooty,Cancer,Fashion,9,5,136
+Ribbot,Male,Frog,Jock,Aquarius,Fitness,9,5,137
+Megan,Female,Bear,Normal,Pisces,Nature,1,5,138
+Maddie,Female,Dog,Peppy,Capricorn,Play,6,5,139
+Deli,Male,Monkey,Lazy,Gemini,Nature,3,5,140
+Margie,Female,Elephant,Normal,Aquarius,Education,8,5,141
+Egbert,Male,Chicken,Lazy,Libra,Play,9,5,142
+Norma,Female,Cow,Normal,Virgo,Nature,3,5,143
+Elvis,Male,Lion,Cranky,Leo,Education,5,5,144
+Annalisa,Female,Anteater,Normal,Aquarius,Nature,4,5,145
+Felicity,Female,Cat,Peppy,Aries,Fashion,6,5,146
+Azalea,Female,Rhinoceros,Snooty,Sagittarius,Nature,2,5,147
+Papi,Male,Horse,Lazy,Capricorn,Nature,3,5,148
+Canberra,Female,Koala,Big sister,Taurus,Play,3,5,149
+Chief,Male,Wolf,Cranky,Sagittarius,Music,9,5,150
+Sprocket,Male,Ostrich,Jock,Sagittarius,Music,5,5,151
+Snake,Male,Rabbit,Jock,Scorpio,Fitness,9,5,152
+Flo,Female,Penguin,Big sister,Virgo,Music,3,5,153
+Gladys,Female,Ostrich,Normal,Capricorn,Education,7,5,154
+Twiggy,Female,Bird,Peppy,Cancer,Fashion,9,5,155
+Mint,Female,Squirrel,Snooty,Taurus,Fashion,9,5,156
+Tex,Male,Penguin,Smug,Libra,Music,4,5,157
+Goose,Male,Chicken,Jock,Libra,Fitness,9,5,158
+Faith,Female,Koala,Big sister,Aries,Music,3,5,159
+Stella,Female,Sheep,Normal,Aries,Nature,5,5,160
+Gonzo,Male,Koala,Cranky,Libra,Nature,5,5,161
+Wendy,Female,Sheep,Peppy,Leo,Fashion,5,5,162
+Cyd,Male,Elephant,Cranky,Gemini,Music,1,5,163
+Diva,Female,Frog,Big sister,Libra,Fitness,4,5,164
+Caroline,Female,Squirrel,Normal,Cancer,Music,7,5,165
+Mira,Female,Rabbit,Big sister,Cancer,Fitness,4,5,166
+Biff,Male,Hippo,Jock,Aries,Fitness,6,5,167
+Avery,Male,Eagle,Cranky,Pisces,Music,6,5,168
+Nana,Female,Monkey,Normal,Virgo,Education,6,5,169
+Patty,Female,Cow,Peppy,Taurus,Fashion,9,5,170
+Chabwick,Male,Penguin,Lazy,Capricorn,Play,2,5,171
+Rudy,Male,Cat,Jock,Sagittarius,Play,4,5,172
+Ozzie,Male,Koala,Lazy,Taurus,Play,6,5,173
+June,Female,Bear cub,Normal,Gemini,Nature,4,5,174
+Carmen,Female,Rabbit,Peppy,Capricorn,Fashion,5,5,175
+Celia,Female,Eagle,Normal,Aries,Nature,4,5,176
+Joey,Male,Duck,Lazy,Capricorn,Play,8,5,177
+Pinky,Female,Bear,Peppy,Virgo,Fashion,9,5,178
+Pecan,Female,Squirrel,Snooty,Virgo,Fashion,9,5,179
+Chadder,Male,Mouse,Smug,Sagittarius,Fitness,4,5,180
+Blanche,Female,Ostrich,Snooty,Sagittarius,Nature,4,5,181
+Tabby,Female,Cat,Peppy,Leo,Music,8,5,182
+Cole,Male,Rabbit,Lazy,Leo,Nature,4,5,183
+Boomer,Male,Penguin,Lazy,Aquarius,Fitness,7,5,184
+Graham,Male,Hamster,Smug,Gemini,Education,4,5,185
+Boots,Male,Alligator,Jock,Leo,Play,5,5,186
+Murphy,Male,Bear cub,Cranky,Capricorn,Education,5,5,187
+Bubbles,Female,Hippo,Peppy,Virgo,Fashion,6,5,188
+Drift,Male,Frog,Jock,Libra,Fitness,8,5,189
+Frita,Female,Sheep,Big sister,Cancer,Music,4,5,190
+Moe,Male,Cat,Lazy,Capricorn,Play,7,5,191
+Poncho,Male,Bear cub,Jock,Capricorn,Fitness,9,5,192
+Camofrog,Male,Frog,Cranky,Gemini,Music,9,5,193
+Tiffany,Female,Rabbit,Snooty,Capricorn,Fashion,6,5,194
+Hamphrey,Male,Hamster,Cranky,Pisces,Nature,3,5,195
+Savannah,Female,Horse,Normal,Aquarius,Music,9,5,196
+Pate,Female,Duck,Peppy,Pisces,Fashion,9,5,197
+Tipper,Female,Cow,Snooty,Virgo,Fashion,6,5,198
+Doc,Male,Rabbit,Lazy,Pisces,Education,6,5,199
+Sydney,Female,Koala,Normal,Gemini,Music,7,5,200
+Derwin,Male,Duck,Lazy,Gemini,Play,8,5,201
+Tank,Male,Rhinoceros,Jock,Taurus,Fitness,9,5,202
+Wart Jr.,Male,Frog,Cranky,Leo,Education,8,5,203
+Flip,Male,Monkey,Jock,Scorpio,Music,4,5,204
+Eloise,Female,Elephant,Snooty,Sagittarius,Fashion,9,5,205
+Cranston,Male,Ostrich,Lazy,Libra,Nature,4,5,206
+Portia,Female,Dog,Snooty,Scorpio,Fashion,9,5,207
+Plucky,Female,Chicken,Big sister,Libra,Play,4,5,208
+Vesta,Female,Sheep,Normal,Aries,Fashion,9,5,209
+Mac,Male,Dog,Jock,Scorpio,Fitness,4,5,210
+Eunice,Female,Sheep,Normal,Aries,Fashion,8,5,211
+Walker,Male,Dog,Lazy,Gemini,Play,7,5,212
+Rio,Female,Ostrich,Peppy,Virgo,Music,4,5,213
+Olaf,Male,Anteater,Smug,Taurus,Education,3,5,214
+Nate,Male,Bear,Lazy,Leo,Play,7,5,215
+Winnie,Female,Horse,Peppy,Aquarius,Fashion,7,5,216
+Buck,Male,Horse,Jock,Aries,Fitness,9,5,217
+Stu,Male,Bull,Lazy,Taurus,Nature,5,5,218
+Sally,Female,Squirrel,Normal,Gemini,Music,8,5,219
+Barold,Male,Bear cub,Lazy,Pisces,Play,3,5,220
+Hopkins,Male,Rabbit,Lazy,Pisces,Nature,3,5,221
+Rod,Male,Mouse,Jock,Leo,Fitness,7,5,222
+Renée,Female,Rhinoceros,Big sister,Gemini,Music,3,5,223
+Tammi,Female,Monkey,Peppy,Aries,Fashion,5,5,224
+Chelsea,Female,Deer,Normal,Capricorn,Play,2,5,225
+Astrid,Female,Kangaroo,Snooty,Virgo,Music,8,5,226
+Marty,Male,Bear cub,Lazy,Aries,Play,2,5,227
+Raddle,Male,Frog,Lazy,Gemini,Nature,3,5,228
+Walt,Male,Kangaroo,Cranky,Taurus,Fitness,3,5,229
+Roswell,Male,Alligator,Smug,Taurus,Nature,2,5,230
+Gala,Female,Pig,Normal,Pisces,Education,5,5,231
+Sterling,Male,Eagle,Jock,Sagittarius,Fitness,5,5,232
+Yuka,Female,Koala,Snooty,Cancer,Fashion,9,5,233
+Bree,Female,Mouse,Snooty,Cancer,Fashion,7,5,234
+Hopper,Male,Penguin,Cranky,Aries,Music,9,5,235
+Rodeo,Male,Bull,Lazy,Scorpio,Fitness,6,5,236
+Anchovy,Male,Bird,Lazy,Pisces,Play,9,5,237
+Hans,Male,Gorilla,Smug,Sagittarius,Fitness,4,5,238
+Pippy,Female,Rabbit,Peppy,Gemini,Fashion,8,5,239
+Knox,Male,Chicken,Cranky,Sagittarius,Education,5,5,240
+Spike,Male,Rhinoceros,Cranky,Gemini,Nature,5,5,241
+Tybalt,Male,Tiger,Jock,Leo,Play,5,5,242
+Sylvia,Female,Kangaroo,Big sister,Taurus,Music,4,5,243
+Cally,Female,Squirrel,Normal,Virgo,Nature,7,5,244
+Kitty,Female,Cat,Snooty,Aquarius,Fashion,8,5,245
+Gabi,Female,Rabbit,Peppy,Sagittarius,Fashion,8,5,246
+Jambette,Female,Frog,Normal,Scorpio,Fashion,7,5,247
+Jitters,Male,Bird,Jock,Aquarius,Fitness,6,5,248
+Claudia,Female,Tiger,Snooty,Scorpio,Music,4,5,249
+Greta,Female,Mouse,Snooty,Virgo,Education,4,5,250
+Simon,Male,Monkey,Lazy,Capricorn,Play,6,6,251
+Rhonda,Female,Rhinoceros,Normal,Aquarius,Music,6,6,252
+Peewee,Male,Gorilla,Cranky,Virgo,Fitness,9,6,253
+Anabelle,Female,Anteater,Peppy,Aquarius,Fashion,6,6,254
+Broccolo,Male,Mouse,Lazy,Cancer,Play,6,6,255
+Alfonso,Male,Alligator,Lazy,Gemini,Play,10,6,256
+Mathilda,Female,Kangaroo,Snooty,Scorpio,Fitness,8,6,257
+Piper,Female,Bird,Peppy,Aries,Play,5,6,258
+Billy,Male,Goat,Jock,Aries,Play,5,6,259
+Leopold,Male,Lion,Smug,Leo,Education,5,6,260
+Butch,Male,Dog,Cranky,Scorpio,Music,9,6,261
+Zoe,Female,Anteater,Normal,Aquarius,Education,4,6,262
+Rodney,Male,Hamster,Smug,Scorpio,Music,3,6,263
+Weber,Male,Duck,Lazy,Cancer,Nature,5,6,264
+Lionel,Male,Lion,Smug,Leo,Music,4,6,265
+Hippeux,Male,Hippo,Smug,Libra,Education,4,6,266
+Nibbles,Female,Squirrel,Peppy,Cancer,Fashion,8,6,267
+Pudge,Male,Bear cub,Lazy,Gemini,Play,9,6,268
+Al,Male,Gorilla,Lazy,Libra,Fitness,5,6,269
+Phil,Male,Ostrich,Smug,Sagittarius,Music,3,6,270
+Jacques,Male,Bird,Smug,Cancer,Music,4,6,271
+Prince,Male,Frog,Lazy,Cancer,Play,7,6,272
+Midge,Female,Bird,Normal,Pisces,Education,8,6,273
+Bonbon,Female,Rabbit,Peppy,Pisces,Play,4,6,274
+Pango,Female,Anteater,Peppy,Scorpio,Fashion,8,6,275
+Huck,Male,Frog,Smug,Cancer,Fitness,5,6,276
+Chow,Male,Bear,Cranky,Cancer,Fitness,8,6,277
+Rasher,Male,Pig,Cranky,Aries,Music,9,6,278
+Angus,Male,Bull,Cranky,Taurus,Fitness,7,6,279
+Becky,Female,Chicken,Snooty,Sagittarius,Music,5,6,280
+Jay,Male,Bird,Jock,Cancer,Fitness,9,6,281
+Tucker,Male,Elephant,Lazy,Virgo,Nature,4,6,282
+Maggie,Female,Pig,Normal,Virgo,Nature,3,6,283
+Coach,Male,Bull,Jock,Taurus,Fitness,3,6,284
+Victoria,Female,Horse,Peppy,Cancer,Fitness,6,6,285
+Croque,Male,Frog,Cranky,Cancer,Nature,3,6,286
+Rowan,Male,Tiger,Jock,Virgo,Fitness,8,6,287
+O'Hare,Male,Rabbit,Smug,Leo,Nature,6,6,288
+Willow,Female,Sheep,Snooty,Sagittarius,Fashion,6,6,289
+Sheldon,Male,Squirrel,Jock,Pisces,Play,3,6,290
+Pompom,Female,Duck,Peppy,Aquarius,Music,9,6,291
+Groucho,Male,Bear,Cranky,Libra,Music,8,6,292
+Keaton,Male,Eagle,Smug,Gemini,Music,3,6,293
+Chester,Male,Bear cub,Lazy,Leo,Play,5,6,294
+Agent S,Female,Squirrel,Peppy,Cancer,Fitness,7,6,295
+Kitt,Female,Kangaroo,Normal,Libra,Education,9,6,296
+Gaston,Male,Rabbit,Cranky,Scorpio,Education,9,6,297
+Boone,Male,Gorilla,Jock,Virgo,Fitness,6,6,298
+Bertha,Female,Hippo,Normal,Taurus,Education,7,6,299
+Tad,Male,Frog,Jock,Leo,Play,5,6,300
+Spork,Male,Pig,Lazy,Virgo,Play,7,6,301
+Hugh,Male,Pig,Lazy,Capricorn,Play,8,6,302
+Axel,Male,Elephant,Jock,Aries,Fitness,7,6,303
+Bud,Male,Lion,Jock,Leo,Fitness,8,6,304
+Del,Male,Alligator,Cranky,Gemini,Fitness,6,6,305
+Ursala,Female,Bear,Big sister,Capricorn,Music,5,6,306
+Drake,Male,Duck,Lazy,Cancer,Play,6,6,307
+Curt,Male,Bear,Cranky,Cancer,Nature,7,6,308
+Annalise,Female,Horse,Snooty,Sagittarius,Fashion,6,6,309
+Mott,Male,Lion,Jock,Cancer,Fitness,4,6,310
+Monique,Female,Cat,Snooty,Libra,Fashion,8,6,311
+Lucha,Male,Bird,Smug,Sagittarius,Fitness,3,6,312
+Kody,Male,Bear cub,Jock,Libra,Fitness,8,6,313
+Moose,Male,Mouse,Jock,Virgo,Fitness,4,6,314
+Cashmere,Female,Sheep,Snooty,Aries,Fashion,5,6,315
+Stinky,Male,Cat,Jock,Leo,Fitness,7,6,316
+Quillson,Male,Duck,Smug,Capricorn,Music,3,6,317
+Anicotti,Female,Mouse,Peppy,Pisces,Fashion,7,6,318
+Ed,Male,Horse,Smug,Virgo,Nature,7,6,319
+T-Bone,Male,Bull,Cranky,Taurus,Education,6,6,320
+Miranda,Female,Duck,Snooty,Taurus,Fashion,5,6,321
+Paolo,Male,Elephant,Lazy,Taurus,Nature,5,6,322
+Elise,Female,Monkey,Snooty,Aries,Fashion,6,6,323
+Ace,Male,Bird,Jock,Leo,Nature,4,6,324
+Ken,Male,Chicken,Smug,Capricorn,Education,3,6,325
+Ava,Female,Chicken,Normal,Taurus,Music,7,6,326
+Cleo,Female,Horse,Snooty,Aquarius,Education,5,6,327
+Rolf,Male,Tiger,Cranky,Leo,Fitness,9,6,328
+Toby,Male,Rabbit,Smug,Cancer,Music,2,6,329
+Grizzly,Male,Bear,Cranky,Leo,Education,8,6,330
+Dora,Female,Mouse,Normal,Aquarius,Education,9,6,331
+Opal,Female,Elephant,Snooty,Aquarius,Fashion,9,6,332
+Deena,Female,Duck,Normal,Cancer,Education,8,6,333
+Cousteau,Male,Frog,Jock,Sagittarius,Fitness,8,6,334
+Klaus,Male,Bear,Smug,Aries,Education,4,6,335
+Iggly,Male,Penguin,Jock,Scorpio,Fitness,4,6,336
+Leonardo,Male,Tiger,Jock,Taurus,Fitness,4,6,337
+Amelia,Female,Eagle,Snooty,Scorpio,Music,8,6,338
+Admiral,Male,Bird,Cranky,Aquarius,Nature,5,6,339
+Curlos,Male,Sheep,Smug,Taurus,Nature,4,6,340
+Frobert,Male,Frog,Jock,Aquarius,Fitness,7,6,341
+Frett,Male,Dog,Cranky,Scorpio,Music,2,6,342
+Vladimir,Male,Bear cub,Cranky,Leo,Play,7,6,343
+Louie,Male,Gorilla,Jock,Aries,Fitness,6,6,344
+Claude,Male,Rabbit,Lazy,Sagittarius,Nature,6,6,345
+Samson,Male,Mouse,Jock,Cancer,Fitness,8,6,346
+Cobb,Male,Pig,Jock,Libra,Education,7,6,347
+Peaches,Female,Horse,Normal,Sagittarius,Education,8,6,348
+Alli,Female,Alligator,Snooty,Scorpio,Fashion,9,6,349
+Friga,Female,Penguin,Snooty,Libra,Fashion,9,6,350
+Gigi,Female,Frog,Snooty,Leo,Fashion,4,6,351
+Buzz,Male,Eagle,Cranky,Sagittarius,Nature,5,6,352
+Snooty,Female,Anteater,Snooty,Scorpio,Education,5,6,353
+Robin,Female,Bird,Snooty,Sagittarius,Fashion,9,6,354
+Gloria,Female,Duck,Snooty,Leo,Fashion,5,6,355
+Peggy,Female,Pig,Peppy,Gemini,Fashion,6,6,356
+Pancetti,Female,Pig,Snooty,Scorpio,Music,4,6,357
+Boyd,Male,Gorilla,Cranky,Libra,Fitness,3,6,358
+Marcel,Male,Dog,Lazy,Capricorn,Play,4,6,359
+Jacob,Male,Bird,Lazy,Virgo,Nature,3,6,360
+Elmer,Male,Horse,Lazy,Libra,Play,9,6,361
+Carrie,Female,Kangaroo,Normal,Sagittarius,Nature,6,6,362
+Ike,Male,Bear,Cranky,Taurus,Nature,3,6,363
+Truffles,Female,Pig,Peppy,Leo,Fashion,9,6,364
+Pierce,Male,Eagle,Jock,Capricorn,Fitness,9,6,365
+Benjamin,Male,Dog,Lazy,Leo,Nature,3,6,366
+Naomi,Female,Cow,Snooty,Pisces,Fashion,4,6,367
+Sly,Male,Alligator,Jock,Scorpio,Play,3,6,368
+Kevin,Male,Pig,Jock,Taurus,Play,4,6,369
+Peck,Male,Bird,Jock,Leo,Play,3,6,370
+Soleil,Female,Hamster,Snooty,Leo,Education,4,6,371
+Baabara,Female,Sheep,Snooty,Aries,Fashion,8,6,372
+Vic,Male,Bull,Cranky,Capricorn,Fitness,4,6,373
+Charlise,Female,Bear,Big sister,Aries,Fitness,5,6,374
+Cyrano,Male,Anteater,Cranky,Pisces,Education,10,6,375
+Rooney,Male,Kangaroo,Cranky,Sagittarius,Fitness,4,6,376
+Chops,Male,Pig,Smug,Libra,Education,3,6,377
+Benedict,Male,Chicken,Lazy,Libra,Play,7,6,378
+Frank,Male,Eagle,Cranky,Leo,Education,5,6,379
+Timbra,Female,Sheep,Snooty,Libra,Education,4,6,380
+Puck,Male,Penguin,Lazy,Pisces,Fitness,8,6,381
+Mallary,Female,Duck,Snooty,Scorpio,Fashion,8,6,382
+Rory,Male,Lion,Jock,Leo,Music,3,6,383
+Harry,Male,Hippo,Cranky,Capricorn,Education,5,6,384
+Ricky,Male,Squirrel,Cranky,Virgo,Education,6,6,385
+Marcie,Female,Kangaroo,Normal,Gemini,Nature,4,6,386
+Broffina,Female,Chicken,Snooty,Scorpio,Music,3,6,387
+Sparro,Male,Bird,Jock,Scorpio,Play,3,6,388
+Clyde,Male,Horse,Lazy,Taurus,Play,4,6,389
+Candi,Female,Mouse,Peppy,Aries,Play,5,6,390
+Colton,Male,Horse,Smug,Gemini,Nature,4,6,391
+Lucy,Female,Pig,Normal,Gemini,Music,8,6,392
+Limberg,Male,Mouse,Cranky,Libra,Education,9,6,393
+Monty,Male,Monkey,Cranky,Sagittarius,Education,5,6,394
+Cesar,Male,Gorilla,Cranky,Virgo,Fitness,10,6,395
+Rocket,Female,Gorilla,Big sister,Aries,Fitness,4,6,396
+Queenie,Female,Ostrich,Snooty,Scorpio,Fashion,9,6,397
+Gruff,Male,Goat,Cranky,Virgo,Music,6,6,398
+Paula,Female,Bear,Big sister,Aries,Fitness,4,6,399
+Rilla,Female,Gorilla,Peppy,Scorpio,Nature,2,6,400
+Big Top,Male,Elephant,Lazy,Libra,Play,7,6,401
+Violet,Female,Gorilla,Snooty,Virgo,Fitness,5,6,402
+Sandy,Female,Ostrich,Normal,Libra,Nature,5,6,403
+Gwen,Female,Penguin,Snooty,Aquarius,Fashion,8,6,404
+Maelle,Female,Duck,Snooty,Aries,Fashion,8,6,405
+Curly,Male,Pig,Jock,Leo,Fitness,9,6,406
+Rizzo,Male,Mouse,Cranky,Capricorn,Education,8,6,407
+Penelope,Female,Mouse,Peppy,Aquarius,Fashion,4,6,408
+Rocco,Male,Hippo,Cranky,Leo,Education,9,6,409
+Bettina,Female,Mouse,Normal,Gemini,Education,4,6,410
+Boris,Male,Pig,Cranky,Scorpio,Nature,5,6,411
+Bitty,Female,Hippo,Snooty,Libra,Education,5,6,412
+Velma,Female,Goat,Snooty,Capricorn,Education,6,6,413
