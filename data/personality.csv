@@ -1,0 +1,9 @@
+Personality,Friendly,Maturity,Caring,Self-centredness,Rudeness,Hot-temperedness,Arrogance,Stubborness
+Snooty,0,1,0,1,1,1,1,0
+Sisterly,1,0,1,1,1,0,0,0
+Cranky,0,1,0,1,1,0,0,1
+Jock,1,0,1,1,0,0,1,0
+Smug,1,0,0,1,0,0,1,0
+Peppy,1,0,1,0,0,1,0,0
+Normal,1,0,1,1,0,0,0,0
+Lazy,1,1,1,0,0,0,0,0
